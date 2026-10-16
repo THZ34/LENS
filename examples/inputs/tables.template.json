@@ -1,0 +1,12 @@
+{
+  "first_table": null,
+  "second_table": null,
+  "reference_table": null,
+  "candidate_table": null,
+  "id_column": null,
+  "selected_columns": null,
+  "feature_columns": null,
+  "iqr_factor": null,
+  "outlier_side": null
+}
+
